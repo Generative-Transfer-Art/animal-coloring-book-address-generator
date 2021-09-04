@@ -2,7 +2,7 @@
 DO NOT SHARE THE PRIVATE KEY GENERATED WITH ANYONE. DO NOT STORE FUNDS ON GENERATED ADDRESS. ONLY USE FOR ANIMAL COLORING. CODE IS OFFERED AS IS AND DEVELOPER HAS NO LIABILITY FOR LOSS OF FUNDS OR NFTS.
 
 ### Short Version
-This is a tool intended to be used with [Animal Coloring Book](https://generative-transfer-art.vercel.app/). Change `targetH` `index.js` to be the `H ` value you are looking for and run 
+This is a tool intended to be used with [Animal Coloring Book](https://generative-transfer-art.vercel.app/). Change `targetH` `index.js` to be the `H` value you are looking for and run 
 ```node index.js```
 to find an address that will give you that H value when used with Animal Coloring book. 
 
@@ -11,7 +11,7 @@ In Animal Coloring Book, colors are added based on the address you transfer to. 
 
 To use 
 1. Clone or download this repository. 
-2. Change `targetH` `index.js` to be the `H ` value you are looking for
+2. Change `targetH` `index.js` to be the `H` value you are looking for
 3. Install [Node](https://nodejs.org/en/download/) if you don't have it. 
 4. Navigate to the repository in your terminal.
 5. Run `yarn install` or `npm install`
